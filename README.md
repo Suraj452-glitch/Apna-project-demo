@@ -1,4 +1,3 @@
 # Apna-project-demo
-this is my first repository
-<br>
-author-suraj
+
+index.html, styles.css, and script.js
